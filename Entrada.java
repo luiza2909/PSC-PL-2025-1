@@ -8,14 +8,18 @@ public class Entrada{
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Digite o seu nome");
+        System.out.println(x:"Digite o seu número");
+        
+        int numero = scanner.nextInt();
 
-        String nome = scanner.nextLine(); //Armazenar o que o usuário digitar
-                                        // NextLine vai para a próxima instrução
+         for (numero = 1; numero <=; numero ++);{
 
-        System.err.println("Digite a sua idade");
-        int idade = scanner.nextInt();
 
-        System.err.println("Olá " + nome + " Você tem " + idade + " anos, seja bem vinda(o)");
+         }
+
     }
-}
+
+    }
+
+
+
